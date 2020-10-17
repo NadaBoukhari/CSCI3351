@@ -16,7 +16,7 @@
 #include<readline/readline.h> 
 #include <limits.h>
 
-
+// Format directory prompt
 char* getDirectoryPrompt(){
 	
 	char cwd[PATH_MAX];
